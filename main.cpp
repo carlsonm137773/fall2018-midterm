@@ -2,7 +2,7 @@
 
 Description: Prompts the user for an input of the type string
              Prompts the user for a char
-			 counts how many times the char is contained in the string and outputs the result
+             counts how many times the char is contained in the string and outputs the result
 Filename: main.cpp
 Author: Matthew Carlson
 Date: 10/20/2018
